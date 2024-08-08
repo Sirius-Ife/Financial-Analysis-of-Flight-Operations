@@ -17,4 +17,3 @@ This repository contains a case study presentation analyzing financial data of f
   - Financial assessment of adding a Chicago to Atlanta route, supported by NPV and IRR calculations indicating potential profitability.
 
 The findings are presented in a 10-minute slide deck, providing insights and strategic recommendations for enhancing profitability.
-
